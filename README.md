@@ -6,8 +6,7 @@ Windows firewall only logs dropped packets on ports that it currently has servic
     
 I created this for work to deploy on the network to look for possible scanning attempts and general server hardening in an effort to identify any intrusion attempts and increase the overall security.  It still needs a better way to alert, I was thinking of having it send an email, and I was going to test it on the Guest WiFi network at work.
 
-I had intended to add the ability to run it on remote servers as well but i was afraid that i was going to lock myself out of the test servers.  I may go back and add it later when I have a fw rule tha ti know will keep letting me in.
-I finally learned how to format one of these readme pages as well.
+I had intended to add the ability to run it on remote servers as well but i was afraid that i was going to lock myself out of the test servers.  I may go back and add it later when I have a fw rule that i know will keep letting me in.
     
 
 ## [Port Scanning Detector Script] (scanner_detect.ps1)
