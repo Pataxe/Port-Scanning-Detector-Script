@@ -9,7 +9,7 @@
     These will be optional ports that the firewall will keep open
 
     .EXAMPLE
-    .\fw.ps1 80, 443
+    .\scanner_detect.ps1 80, 443
     This would open ports 443 and 80 and block all the rest when running this script
     Example Output:
                         Checking log for scanning attempts
