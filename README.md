@@ -10,7 +10,7 @@ I had intended to add the ability to run it on remote servers as well but i was 
 I finally learned how to format one of these readme pages as well.
     
 
-## [Port Scanning Detector Script] (fw.ps1)
+## [Port Scanning Detector Script] (scanner_detect.ps1)
 
 This is a command line script that will create firewall rules based on what is passed to it as a command line argument.  It will keep open any TCP ports that you pass to it at run time, and block all others.
 	
